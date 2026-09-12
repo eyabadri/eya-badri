@@ -45,4 +45,4 @@ Final-year Electrical Engineering student at **ENIT** (National Engineering Scho
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/aya-badri) · eya.badri@etudiant-enit.utm.tn · Tunis, Tunisia
+[LinkedIn](https://www.linkedin.com/in/aya-badri) · [Portfolio](https://eyabadri.github.io/portfolio/) · eya.badri@etudiant-enit.utm.tn · Tunis, Tunisia
